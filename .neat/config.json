@@ -1,0 +1,21 @@
+{
+    "paths": [
+        {
+            "name": "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",
+            "path": ".neat/apis/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"
+        }
+    ],
+    "dbs": [],
+    "apis": [
+        {
+            "name": "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",
+            "apiType": 0
+        }
+    ],
+    "chats": [
+        {
+            "id": "90bc3035-a46e-43fa-aefa-b5aa26662a99",
+            "title": "Chat with Neat"
+        }
+    ]
+}

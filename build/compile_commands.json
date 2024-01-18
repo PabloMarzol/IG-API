@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Study/C++/IG API/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -ID:/Study/C++/Dev_Tools/curl-8.5.0/include -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"D:\\Study\\C++\\IG API\\main.cpp\"",
+  "file": "D:\\Study\\C++\\IG API\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]

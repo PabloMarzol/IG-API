@@ -1,0 +1,21 @@
+{
+  "sessionId": "90bc3035-a46e-43fa-aefa-b5aa26662a99",
+  "title": "Chat with Neat",
+  "models": {
+    "gpt-4-32k": {
+      "id": "gpt-4-32k",
+      "uri": "https://api.openai.com/v1/chat/completions",
+      "interface": "OpenAI"
+    }
+  },
+  "messages": [
+    {
+      "user": "user",
+      "ts": "2024-01-18T13:18:00.404Z",
+      "payload": {
+        "role": "user",
+        "content": "now"
+      }
+    }
+  ]
+}
